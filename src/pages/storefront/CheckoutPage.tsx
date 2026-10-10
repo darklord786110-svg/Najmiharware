@@ -1,8 +1,10 @@
+import { useTranslation } from 'react-i18next';
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useStore } from '../../StoreContext';
 
 export default function CheckoutPage() {
+    const { t } = useTranslation(['common', 'navigation', 'products', 'checkout', 'wholesale', 'account']);
   const { state, dispatch, showToast } = useStore();
   const navigate = useNavigate();
   const [formData, setFormData] = useState({
@@ -55,7 +57,7 @@ export default function CheckoutPage() {
   return (
     <div style={{ display: 'flex', flexDirection: 'column' }}>
       <section style={{ padding: 'var(--space-md) var(--margin-mobile)' }}>
-        <h1 className="text-headline-lg-mobile" style={{ color: 'var(--primary)', fontWeight: 700 }}>Checkout</h1>
+        <h1 className="text-headline-lg-mobile" style={{ color: 'var(--primary)', fontWeight: 700 }}>{t('checkout:checkout')}</h1>
         <div style={{ background: 'var(--signal-orange-dim)', padding: 12, borderRadius: 8, marginTop: 12, display: 'flex', gap: 8 }}>
           <span className="material-symbols-outlined" style={{ color: 'var(--on-tertiary-container)' }}>info</span>
           <span className="text-body-sm">Demo Prototype: No actual payments will be processed.</span>

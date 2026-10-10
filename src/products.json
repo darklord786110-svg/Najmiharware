@@ -3,7 +3,7 @@
     "id": "NAJ-DEMO-001",
     "sku": "NAJ-DEMO-001",
     "name": "Nylon 3-Strand Twisted Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 2 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -139,13 +139,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-002",
     "sku": "NAJ-DEMO-002",
     "name": "Nylon 3-Strand Twisted Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 3 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -281,13 +290,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-003",
     "sku": "NAJ-DEMO-003",
     "name": "Nylon 3-Strand Twisted Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 4 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -423,13 +441,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-004",
     "sku": "NAJ-DEMO-004",
     "name": "Nylon 3-Strand Twisted Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 5 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -565,13 +592,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-005",
     "sku": "NAJ-DEMO-005",
     "name": "Nylon 3-Strand Twisted Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 6 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -707,13 +743,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-006",
     "sku": "NAJ-DEMO-006",
     "name": "Nylon 3-Strand Twisted Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 8 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -849,13 +894,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-007",
     "sku": "NAJ-DEMO-007",
     "name": "Nylon 3-Strand Twisted Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 10 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -991,13 +1045,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-008",
     "sku": "NAJ-DEMO-008",
     "name": "Nylon 3-Strand Twisted Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 12 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -1133,13 +1196,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-009",
     "sku": "NAJ-DEMO-009",
     "name": "Nylon 3-Strand Twisted Rope — 16 mm",
-    "name_ar": "",
+    "name_ar": "حبل نايلون مجدول بالفتل من 3 خيوط — 16 ملم",
     "family": "Nylon 3-Strand Twisted Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -1275,13 +1347,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون twisted 3-strand حبل, nominal 16 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-010",
     "sku": "NAJ-DEMO-010",
     "name": "Nylon Double Braided Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 2 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -1413,13 +1494,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-011",
     "sku": "NAJ-DEMO-011",
     "name": "Nylon Double Braided Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 3 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -1551,13 +1641,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-012",
     "sku": "NAJ-DEMO-012",
     "name": "Nylon Double Braided Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 4 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -1689,13 +1788,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-013",
     "sku": "NAJ-DEMO-013",
     "name": "Nylon Double Braided Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 5 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -1827,13 +1935,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-014",
     "sku": "NAJ-DEMO-014",
     "name": "Nylon Double Braided Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 6 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -1965,13 +2082,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-015",
     "sku": "NAJ-DEMO-015",
     "name": "Nylon Double Braided Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 8 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -2103,13 +2229,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-016",
     "sku": "NAJ-DEMO-016",
     "name": "Nylon Double Braided Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 10 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -2241,13 +2376,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-017",
     "sku": "NAJ-DEMO-017",
     "name": "Nylon Double Braided Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 12 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -2379,13 +2523,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-018",
     "sku": "NAJ-DEMO-018",
     "name": "Nylon Double Braided Rope — 16 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Double Braided Rope — 16 ملم",
     "family": "Nylon Double Braided Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -2517,13 +2670,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: نايلون double braided حبل, nominal 16 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for marine, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-019",
     "sku": "NAJ-DEMO-019",
     "name": "Nylon Multifilament Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 2 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -2653,13 +2815,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-020",
     "sku": "NAJ-DEMO-020",
     "name": "Nylon Multifilament Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 3 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -2789,13 +2960,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-021",
     "sku": "NAJ-DEMO-021",
     "name": "Nylon Multifilament Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 4 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -2925,13 +3105,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-022",
     "sku": "NAJ-DEMO-022",
     "name": "Nylon Multifilament Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 5 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -3061,13 +3250,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-023",
     "sku": "NAJ-DEMO-023",
     "name": "Nylon Multifilament Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 6 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -3197,13 +3395,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-024",
     "sku": "NAJ-DEMO-024",
     "name": "Nylon Multifilament Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 8 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -3333,13 +3540,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-025",
     "sku": "NAJ-DEMO-025",
     "name": "Nylon Multifilament Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 10 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -3469,13 +3685,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-026",
     "sku": "NAJ-DEMO-026",
     "name": "Nylon Multifilament Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 12 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -3605,13 +3830,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-027",
     "sku": "NAJ-DEMO-027",
     "name": "Nylon Multifilament Rope — 16 mm",
-    "name_ar": "",
+    "name_ar": "Nylon Multifilament Rope — 16 ملم",
     "family": "Nylon Multifilament Rope",
     "category": "Nylon",
     "material": "Nylon",
@@ -3741,13 +3975,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "نايلون",
+    "material_ar": "نايلون",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: نايلون multifilament twisted حبل, nominal 16 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible نايلون حبل option for general purpose, construction applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "البناء"
+    ]
   },
   {
     "id": "NAJ-DEMO-028",
     "sku": "NAJ-DEMO-028",
     "name": "PP 3-Strand Twisted Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 2 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -3883,13 +4126,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-029",
     "sku": "NAJ-DEMO-029",
     "name": "PP 3-Strand Twisted Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 3 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -4025,13 +4277,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-030",
     "sku": "NAJ-DEMO-030",
     "name": "PP 3-Strand Twisted Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 4 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -4167,13 +4428,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-031",
     "sku": "NAJ-DEMO-031",
     "name": "PP 3-Strand Twisted Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 5 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -4309,13 +4579,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-032",
     "sku": "NAJ-DEMO-032",
     "name": "PP 3-Strand Twisted Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 6 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -4451,13 +4730,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-033",
     "sku": "NAJ-DEMO-033",
     "name": "PP 3-Strand Twisted Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 8 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -4593,13 +4881,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-034",
     "sku": "NAJ-DEMO-034",
     "name": "PP 3-Strand Twisted Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 10 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -4735,13 +5032,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-035",
     "sku": "NAJ-DEMO-035",
     "name": "PP 3-Strand Twisted Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 12 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -4877,13 +5183,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-036",
     "sku": "NAJ-DEMO-036",
     "name": "PP 3-Strand Twisted Rope — 16 mm",
-    "name_ar": "",
+    "name_ar": "PP 3-Strand Twisted Rope — 16 ملم",
     "family": "PP 3-Strand Twisted Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -5019,13 +5334,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) twisted 3-strand حبل, nominal 16 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-037",
     "sku": "NAJ-DEMO-037",
     "name": "PP Danline Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "PP Danline Rope — 2 ملم",
     "family": "PP Danline Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -5157,13 +5481,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) danline 3-strand حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for marine, fishing applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Fishing"
+    ]
   },
   {
     "id": "NAJ-DEMO-038",
     "sku": "NAJ-DEMO-038",
     "name": "PP Danline Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "PP Danline Rope — 3 ملم",
     "family": "PP Danline Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -5295,13 +5628,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) danline 3-strand حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for marine, fishing applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Fishing"
+    ]
   },
   {
     "id": "NAJ-DEMO-039",
     "sku": "NAJ-DEMO-039",
     "name": "PP Danline Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "PP Danline Rope — 4 ملم",
     "family": "PP Danline Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -5433,13 +5775,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) danline 3-strand حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for marine, fishing applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Fishing"
+    ]
   },
   {
     "id": "NAJ-DEMO-040",
     "sku": "NAJ-DEMO-040",
     "name": "PP Danline Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "PP Danline Rope — 5 ملم",
     "family": "PP Danline Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -5571,13 +5922,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) danline 3-strand حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for marine, fishing applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Fishing"
+    ]
   },
   {
     "id": "NAJ-DEMO-041",
     "sku": "NAJ-DEMO-041",
     "name": "PP Danline Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "PP Danline Rope — 6 ملم",
     "family": "PP Danline Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -5709,13 +6069,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) danline 3-strand حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for marine, fishing applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Fishing"
+    ]
   },
   {
     "id": "NAJ-DEMO-042",
     "sku": "NAJ-DEMO-042",
     "name": "PP Danline Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "PP Danline Rope — 8 ملم",
     "family": "PP Danline Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -5847,13 +6216,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) danline 3-strand حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for marine, fishing applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Fishing"
+    ]
   },
   {
     "id": "NAJ-DEMO-043",
     "sku": "NAJ-DEMO-043",
     "name": "PP Danline Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "PP Danline Rope — 10 ملم",
     "family": "PP Danline Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -5985,13 +6363,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) danline 3-strand حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for marine, fishing applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Fishing"
+    ]
   },
   {
     "id": "NAJ-DEMO-044",
     "sku": "NAJ-DEMO-044",
     "name": "PP Danline Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "PP Danline Rope — 12 ملم",
     "family": "PP Danline Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -6123,13 +6510,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) danline 3-strand حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for marine, fishing applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "Fishing"
+    ]
   },
   {
     "id": "NAJ-DEMO-045",
     "sku": "NAJ-DEMO-045",
     "name": "PP Braided Utility Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "PP Braided Utility Rope — 2 ملم",
     "family": "PP Braided Utility Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -6261,13 +6657,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) braided حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for general purpose, logistics applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "الخدمات اللوجستية"
+    ]
   },
   {
     "id": "NAJ-DEMO-046",
     "sku": "NAJ-DEMO-046",
     "name": "PP Braided Utility Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "PP Braided Utility Rope — 3 ملم",
     "family": "PP Braided Utility Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -6399,13 +6804,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) braided حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for general purpose, logistics applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "الخدمات اللوجستية"
+    ]
   },
   {
     "id": "NAJ-DEMO-047",
     "sku": "NAJ-DEMO-047",
     "name": "PP Braided Utility Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "PP Braided Utility Rope — 4 ملم",
     "family": "PP Braided Utility Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -6537,13 +6951,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) braided حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for general purpose, logistics applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "الخدمات اللوجستية"
+    ]
   },
   {
     "id": "NAJ-DEMO-048",
     "sku": "NAJ-DEMO-048",
     "name": "PP Braided Utility Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "PP Braided Utility Rope — 5 ملم",
     "family": "PP Braided Utility Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -6675,13 +7098,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) braided حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for general purpose, logistics applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "الخدمات اللوجستية"
+    ]
   },
   {
     "id": "NAJ-DEMO-049",
     "sku": "NAJ-DEMO-049",
     "name": "PP Braided Utility Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "PP Braided Utility Rope — 6 ملم",
     "family": "PP Braided Utility Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -6813,13 +7245,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) braided حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for general purpose, logistics applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "الخدمات اللوجستية"
+    ]
   },
   {
     "id": "NAJ-DEMO-050",
     "sku": "NAJ-DEMO-050",
     "name": "PP Braided Utility Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "PP Braided Utility Rope — 8 ملم",
     "family": "PP Braided Utility Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -6951,13 +7392,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) braided حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for general purpose, logistics applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "الخدمات اللوجستية"
+    ]
   },
   {
     "id": "NAJ-DEMO-051",
     "sku": "NAJ-DEMO-051",
     "name": "PP Braided Utility Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "PP Braided Utility Rope — 10 ملم",
     "family": "PP Braided Utility Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -7089,13 +7539,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) braided حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for general purpose, logistics applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "الخدمات اللوجستية"
+    ]
   },
   {
     "id": "NAJ-DEMO-052",
     "sku": "NAJ-DEMO-052",
     "name": "PP Braided Utility Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "PP Braided Utility Rope — 12 ملم",
     "family": "PP Braided Utility Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -7227,13 +7686,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polypropylene (PP) braided حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for general purpose, logistics applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "الخدمات اللوجستية"
+    ]
   },
   {
     "id": "NAJ-DEMO-053",
     "sku": "NAJ-DEMO-053",
     "name": "PP Monofilament Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "PP Monofilament Rope — 2 ملم",
     "family": "PP Monofilament Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -7363,13 +7831,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) monofilament twisted حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-054",
     "sku": "NAJ-DEMO-054",
     "name": "PP Monofilament Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "PP Monofilament Rope — 3 ملم",
     "family": "PP Monofilament Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -7499,13 +7976,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) monofilament twisted حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-055",
     "sku": "NAJ-DEMO-055",
     "name": "PP Monofilament Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "PP Monofilament Rope — 4 ملم",
     "family": "PP Monofilament Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -7635,13 +8121,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) monofilament twisted حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-056",
     "sku": "NAJ-DEMO-056",
     "name": "PP Monofilament Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "PP Monofilament Rope — 5 ملم",
     "family": "PP Monofilament Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -7771,13 +8266,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) monofilament twisted حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-057",
     "sku": "NAJ-DEMO-057",
     "name": "PP Monofilament Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "PP Monofilament Rope — 6 ملم",
     "family": "PP Monofilament Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -7907,13 +8411,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) monofilament twisted حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-058",
     "sku": "NAJ-DEMO-058",
     "name": "PP Monofilament Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "PP Monofilament Rope — 8 ملم",
     "family": "PP Monofilament Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -8043,13 +8556,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) monofilament twisted حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-059",
     "sku": "NAJ-DEMO-059",
     "name": "PP Monofilament Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "PP Monofilament Rope — 10 ملم",
     "family": "PP Monofilament Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -8179,13 +8701,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) monofilament twisted حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-060",
     "sku": "NAJ-DEMO-060",
     "name": "PP Monofilament Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "PP Monofilament Rope — 12 ملم",
     "family": "PP Monofilament Rope",
     "category": "Polypropylene (PP)",
     "material": "Polypropylene (PP)",
@@ -8315,13 +8846,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "Polypropylene (PP)",
+    "material_ar": "Polypropylene (PP)",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: Polypropylene (PP) monofilament twisted حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible بولي بروبيلين (pp) حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-061",
     "sku": "NAJ-DEMO-061",
     "name": "HDPE Twisted Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Twisted Rope — 2 ملم",
     "family": "HDPE Twisted Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -8455,13 +8995,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: HDPE twisted 3-strand حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-062",
     "sku": "NAJ-DEMO-062",
     "name": "HDPE Twisted Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Twisted Rope — 3 ملم",
     "family": "HDPE Twisted Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -8595,13 +9144,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: HDPE twisted 3-strand حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-063",
     "sku": "NAJ-DEMO-063",
     "name": "HDPE Twisted Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Twisted Rope — 4 ملم",
     "family": "HDPE Twisted Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -8735,13 +9293,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: HDPE twisted 3-strand حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-064",
     "sku": "NAJ-DEMO-064",
     "name": "HDPE Twisted Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Twisted Rope — 5 ملم",
     "family": "HDPE Twisted Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -8875,13 +9442,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: HDPE twisted 3-strand حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-065",
     "sku": "NAJ-DEMO-065",
     "name": "HDPE Twisted Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Twisted Rope — 6 ملم",
     "family": "HDPE Twisted Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -9015,13 +9591,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: HDPE twisted 3-strand حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-066",
     "sku": "NAJ-DEMO-066",
     "name": "HDPE Twisted Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Twisted Rope — 8 ملم",
     "family": "HDPE Twisted Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -9155,13 +9740,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: HDPE twisted 3-strand حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-067",
     "sku": "NAJ-DEMO-067",
     "name": "HDPE Twisted Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Twisted Rope — 10 ملم",
     "family": "HDPE Twisted Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -9295,13 +9889,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: HDPE twisted 3-strand حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-068",
     "sku": "NAJ-DEMO-068",
     "name": "HDPE Twisted Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Twisted Rope — 12 ملم",
     "family": "HDPE Twisted Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -9435,13 +10038,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مفتول",
+    "description_ar": "DEMO product example: HDPE twisted 3-strand حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, agriculture applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "الزراعة"
+    ]
   },
   {
     "id": "NAJ-DEMO-069",
     "sku": "NAJ-DEMO-069",
     "name": "HDPE Monofilament Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Monofilament Rope — 2 ملم",
     "family": "HDPE Monofilament Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -9573,13 +10185,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE monofilament حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-070",
     "sku": "NAJ-DEMO-070",
     "name": "HDPE Monofilament Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Monofilament Rope — 3 ملم",
     "family": "HDPE Monofilament Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -9711,13 +10332,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE monofilament حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-071",
     "sku": "NAJ-DEMO-071",
     "name": "HDPE Monofilament Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Monofilament Rope — 4 ملم",
     "family": "HDPE Monofilament Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -9849,13 +10479,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE monofilament حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-072",
     "sku": "NAJ-DEMO-072",
     "name": "HDPE Monofilament Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Monofilament Rope — 5 ملم",
     "family": "HDPE Monofilament Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -9987,13 +10626,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE monofilament حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-073",
     "sku": "NAJ-DEMO-073",
     "name": "HDPE Monofilament Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Monofilament Rope — 6 ملم",
     "family": "HDPE Monofilament Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -10125,13 +10773,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE monofilament حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-074",
     "sku": "NAJ-DEMO-074",
     "name": "HDPE Monofilament Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Monofilament Rope — 8 ملم",
     "family": "HDPE Monofilament Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -10263,13 +10920,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE monofilament حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-075",
     "sku": "NAJ-DEMO-075",
     "name": "HDPE Monofilament Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Monofilament Rope — 10 ملم",
     "family": "HDPE Monofilament Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -10401,13 +11067,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE monofilament حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-076",
     "sku": "NAJ-DEMO-076",
     "name": "HDPE Monofilament Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Monofilament Rope — 12 ملم",
     "family": "HDPE Monofilament Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -10539,13 +11214,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE monofilament حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for fishing, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "Fishing",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-077",
     "sku": "NAJ-DEMO-077",
     "name": "HDPE Braided Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Braided Rope — 2 ملم",
     "family": "HDPE Braided Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -10675,13 +11359,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE braided حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for general purpose, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-078",
     "sku": "NAJ-DEMO-078",
     "name": "HDPE Braided Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Braided Rope — 3 ملم",
     "family": "HDPE Braided Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -10811,13 +11504,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE braided حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for general purpose, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-079",
     "sku": "NAJ-DEMO-079",
     "name": "HDPE Braided Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Braided Rope — 4 ملم",
     "family": "HDPE Braided Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -10947,13 +11649,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE braided حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for general purpose, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-080",
     "sku": "NAJ-DEMO-080",
     "name": "HDPE Braided Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Braided Rope — 5 ملم",
     "family": "HDPE Braided Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -11083,13 +11794,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE braided حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for general purpose, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-081",
     "sku": "NAJ-DEMO-081",
     "name": "HDPE Braided Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Braided Rope — 6 ملم",
     "family": "HDPE Braided Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -11219,13 +11939,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE braided حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for general purpose, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-082",
     "sku": "NAJ-DEMO-082",
     "name": "HDPE Braided Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Braided Rope — 8 ملم",
     "family": "HDPE Braided Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -11355,13 +12084,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE braided حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for general purpose, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-083",
     "sku": "NAJ-DEMO-083",
     "name": "HDPE Braided Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Braided Rope — 10 ملم",
     "family": "HDPE Braided Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -11491,13 +12229,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE braided حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for general purpose, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-084",
     "sku": "NAJ-DEMO-084",
     "name": "HDPE Braided Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "HDPE Braided Rope — 12 ملم",
     "family": "HDPE Braided Rope",
     "category": "HDPE",
     "material": "HDPE",
@@ -11627,13 +12374,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بولي إيثيلين عالي الكثافة",
+    "material_ar": "بولي إيثيلين عالي الكثافة",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: HDPE braided حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible hdpe حبل option for general purpose, industrial applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Industrial"
+    ]
   },
   {
     "id": "NAJ-DEMO-085",
     "sku": "NAJ-DEMO-085",
     "name": "Polyester Braided Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "حبل بوليستر مضفر — 2 ملم",
     "family": "Polyester Braided Rope",
     "category": "Polyester",
     "material": "Polyester",
@@ -11765,13 +12521,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بوليستر",
+    "material_ar": "بوليستر",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polyester double braided حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible polyester حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-086",
     "sku": "NAJ-DEMO-086",
     "name": "Polyester Braided Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "حبل بوليستر مضفر — 3 ملم",
     "family": "Polyester Braided Rope",
     "category": "Polyester",
     "material": "Polyester",
@@ -11903,13 +12668,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بوليستر",
+    "material_ar": "بوليستر",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polyester double braided حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible polyester حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-087",
     "sku": "NAJ-DEMO-087",
     "name": "Polyester Braided Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "حبل بوليستر مضفر — 4 ملم",
     "family": "Polyester Braided Rope",
     "category": "Polyester",
     "material": "Polyester",
@@ -12041,13 +12815,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بوليستر",
+    "material_ar": "بوليستر",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polyester double braided حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible polyester حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-088",
     "sku": "NAJ-DEMO-088",
     "name": "Polyester Braided Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "حبل بوليستر مضفر — 5 ملم",
     "family": "Polyester Braided Rope",
     "category": "Polyester",
     "material": "Polyester",
@@ -12179,13 +12962,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بوليستر",
+    "material_ar": "بوليستر",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polyester double braided حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible polyester حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-089",
     "sku": "NAJ-DEMO-089",
     "name": "Polyester Braided Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "حبل بوليستر مضفر — 6 ملم",
     "family": "Polyester Braided Rope",
     "category": "Polyester",
     "material": "Polyester",
@@ -12317,13 +13109,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بوليستر",
+    "material_ar": "بوليستر",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polyester double braided حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible polyester حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-090",
     "sku": "NAJ-DEMO-090",
     "name": "Polyester Braided Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "حبل بوليستر مضفر — 8 ملم",
     "family": "Polyester Braided Rope",
     "category": "Polyester",
     "material": "Polyester",
@@ -12455,13 +13256,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بوليستر",
+    "material_ar": "بوليستر",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polyester double braided حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible polyester حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-091",
     "sku": "NAJ-DEMO-091",
     "name": "Polyester Braided Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "حبل بوليستر مضفر — 10 ملم",
     "family": "Polyester Braided Rope",
     "category": "Polyester",
     "material": "Polyester",
@@ -12593,13 +13403,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بوليستر",
+    "material_ar": "بوليستر",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polyester double braided حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible polyester حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-092",
     "sku": "NAJ-DEMO-092",
     "name": "Polyester Braided Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "حبل بوليستر مضفر — 12 ملم",
     "family": "Polyester Braided Rope",
     "category": "Polyester",
     "material": "Polyester",
@@ -12731,13 +13550,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "بوليستر",
+    "material_ar": "بوليستر",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Polyester double braided حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible polyester حبل option for marine, general purpose applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "القطاع البحري",
+      "General Purpose"
+    ]
   },
   {
     "id": "NAJ-DEMO-093",
     "sku": "NAJ-DEMO-093",
     "name": "Cotton Sash Cord Rope — 2 mm",
-    "name_ar": "",
+    "name_ar": "Cotton Sash Cord Rope — 2 ملم",
     "family": "Cotton Sash Cord Rope",
     "category": "Cotton",
     "material": "Cotton",
@@ -12865,13 +13693,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "قطني",
+    "material_ar": "قطني",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Cotton braided sash cord حبل, nominal 2 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible cotton حبل option for general purpose, home & workshop applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Home & Workshop"
+    ]
   },
   {
     "id": "NAJ-DEMO-094",
     "sku": "NAJ-DEMO-094",
     "name": "Cotton Sash Cord Rope — 3 mm",
-    "name_ar": "",
+    "name_ar": "Cotton Sash Cord Rope — 3 ملم",
     "family": "Cotton Sash Cord Rope",
     "category": "Cotton",
     "material": "Cotton",
@@ -12999,13 +13836,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "قطني",
+    "material_ar": "قطني",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Cotton braided sash cord حبل, nominal 3 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible cotton حبل option for general purpose, home & workshop applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Home & Workshop"
+    ]
   },
   {
     "id": "NAJ-DEMO-095",
     "sku": "NAJ-DEMO-095",
     "name": "Cotton Sash Cord Rope — 4 mm",
-    "name_ar": "",
+    "name_ar": "Cotton Sash Cord Rope — 4 ملم",
     "family": "Cotton Sash Cord Rope",
     "category": "Cotton",
     "material": "Cotton",
@@ -13133,13 +13979,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "قطني",
+    "material_ar": "قطني",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Cotton braided sash cord حبل, nominal 4 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible cotton حبل option for general purpose, home & workshop applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Home & Workshop"
+    ]
   },
   {
     "id": "NAJ-DEMO-096",
     "sku": "NAJ-DEMO-096",
     "name": "Cotton Sash Cord Rope — 5 mm",
-    "name_ar": "",
+    "name_ar": "Cotton Sash Cord Rope — 5 ملم",
     "family": "Cotton Sash Cord Rope",
     "category": "Cotton",
     "material": "Cotton",
@@ -13267,13 +14122,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "قطني",
+    "material_ar": "قطني",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Cotton braided sash cord حبل, nominal 5 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible cotton حبل option for general purpose, home & workshop applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Home & Workshop"
+    ]
   },
   {
     "id": "NAJ-DEMO-097",
     "sku": "NAJ-DEMO-097",
     "name": "Cotton Sash Cord Rope — 6 mm",
-    "name_ar": "",
+    "name_ar": "Cotton Sash Cord Rope — 6 ملم",
     "family": "Cotton Sash Cord Rope",
     "category": "Cotton",
     "material": "Cotton",
@@ -13401,13 +14265,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "قطني",
+    "material_ar": "قطني",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Cotton braided sash cord حبل, nominal 6 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible cotton حبل option for general purpose, home & workshop applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Home & Workshop"
+    ]
   },
   {
     "id": "NAJ-DEMO-098",
     "sku": "NAJ-DEMO-098",
     "name": "Cotton Sash Cord Rope — 8 mm",
-    "name_ar": "",
+    "name_ar": "Cotton Sash Cord Rope — 8 ملم",
     "family": "Cotton Sash Cord Rope",
     "category": "Cotton",
     "material": "Cotton",
@@ -13535,13 +14408,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "قطني",
+    "material_ar": "قطني",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Cotton braided sash cord حبل, nominal 8 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible cotton حبل option for general purpose, home & workshop applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Home & Workshop"
+    ]
   },
   {
     "id": "NAJ-DEMO-099",
     "sku": "NAJ-DEMO-099",
     "name": "Cotton Sash Cord Rope — 10 mm",
-    "name_ar": "",
+    "name_ar": "Cotton Sash Cord Rope — 10 ملم",
     "family": "Cotton Sash Cord Rope",
     "category": "Cotton",
     "material": "Cotton",
@@ -13669,13 +14551,22 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "قطني",
+    "material_ar": "قطني",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Cotton braided sash cord حبل, nominal 10 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible cotton حبل option for general purpose, home & workshop applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Home & Workshop"
+    ]
   },
   {
     "id": "NAJ-DEMO-100",
     "sku": "NAJ-DEMO-100",
     "name": "Cotton Sash Cord Rope — 12 mm",
-    "name_ar": "",
+    "name_ar": "Cotton Sash Cord Rope — 12 ملم",
     "family": "Cotton Sash Cord Rope",
     "category": "Cotton",
     "material": "Cotton",
@@ -13803,6 +14694,15 @@
       "length_price_multiplier": "selected_length_yards/100",
       "quantity_unit": "roll",
       "inventory_by_variant": "demo; not verified"
-    }
+    },
+    "category_ar": "قطني",
+    "material_ar": "قطني",
+    "construction_ar": "مضفر",
+    "description_ar": "DEMO product example: Cotton braided sash cord حبل, nominal 12 mm diameter. Choose a colour and 100–200 yard roll. Specifications, prices and availability must be verified by Najmi before publication.",
+    "short_description_ar": "A flexible cotton حبل option for general purpose, home & workshop applications, supplied as selectable demo rolls.",
+    "applications_ar": [
+      "General Purpose",
+      "Home & Workshop"
+    ]
   }
 ]

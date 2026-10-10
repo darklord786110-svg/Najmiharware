@@ -1,3 +1,4 @@
+import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 import { useStore } from '../../StoreContext';
 import { IMAGES } from '../../store';
@@ -6,6 +7,8 @@ import LocationMap from '../../components/LocationMap';
 import ManufacturingVideo from '../../components/ManufacturingVideo';
 
 export default function HomePage() {
+  const { t } = useTranslation(['common', 'navigation', 'products', 'checkout', 'wholesale', 'account']);
+  const { i18n } = useTranslation();
   const { state, dispatch, showToast } = useStore();
 
   const handleAddToCart = (productId: string, variantId: string) => {
@@ -164,13 +167,13 @@ export default function HomePage() {
                     </Link>
                     <div style={{ padding: 24, display: 'flex', flexDirection: 'column', flexGrow: 1, borderTop: '1px solid var(--outline-variant)' }}>
                       <Link to={`/product/${product.id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-                        <h3 className="text-label-md truncate-2" style={{ marginBottom: 8, height: 36 }}>{product.name}</h3>
+                        <h3 className="text-label-md truncate-2" style={{ marginBottom: 8, height: 36 }}>{i18n.language === 'ar-KW' && product.nameAr ? product.nameAr : product.name}</h3>
                       </Link>
                       <span className="text-label-sm" style={{ color: 'var(--on-surface-variant)', marginBottom: 16 }}>{product.categoryTag}</span>
                       
                       <div style={{ marginTop: 'auto', display: 'flex', alignItems: 'baseline', gap: 4, marginBottom: 16 }}>
                         <span className="text-headline-sm" style={{ color: 'var(--primary)' }}>{defaultVariant.retailPrice.toFixed(3)}</span>
-                        <span className="text-label-sm">KWD</span>
+                        <span className="text-label-sm">{t('common:kwd')}</span>
                         <span className="text-label-sm" style={{ color: 'var(--on-surface-variant)' }}>/ {defaultVariant.unit}</span>
                       </div>
 
@@ -189,7 +192,7 @@ export default function HomePage() {
             </div>
             
             <div style={{ textAlign: 'center', marginTop: 40 }}>
-              <Link to="/brands/star-rope" className="btn btn-lg btn-outline">Explore Full Collection</Link>
+              <Link to="/brands/star-rope" className="btn btn-lg btn-outline">{t('navigation:shop')}</Link>
             </div>
           </div>
         </section>
@@ -236,7 +239,7 @@ export default function HomePage() {
       <section style={{ padding: '80px var(--margin-mobile)', background: 'var(--surface)' }}>
         <div className="container-app" style={{ maxWidth: 1440, margin: '0 auto' }}>
           <div style={{ textAlign: 'center', marginBottom: 48 }}>
-            <h2 className="text-headline-lg">Shop by Category</h2>
+            <h2 className="text-headline-lg">{t('products:shopByCategory')}</h2>
           </div>
           
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(240px, 1fr))', gap: 24 }}>
@@ -322,12 +325,12 @@ export default function HomePage() {
                   </Link>
                   <div style={{ padding: 24, display: 'flex', flexDirection: 'column', flexGrow: 1, borderTop: '1px solid var(--outline-variant)' }}>
                     <Link to={`/product/${product.id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-                      <h3 className="text-label-md truncate-2" style={{ marginBottom: 8, height: 36 }}>{product.name}</h3>
+                      <h3 className="text-label-md truncate-2" style={{ marginBottom: 8, height: 36 }}>{i18n.language === 'ar-KW' && product.nameAr ? product.nameAr : product.name}</h3>
                     </Link>
                     
                     <div style={{ marginTop: 'auto', display: 'flex', alignItems: 'baseline', gap: 4, marginBottom: 16, paddingTop: 16 }}>
                       <span className="text-headline-sm" style={{ color: 'var(--primary)' }}>{defaultVariant.retailPrice.toFixed(3)}</span>
-                      <span className="text-label-sm">KWD</span>
+                      <span className="text-label-sm">{t('common:kwd')}</span>
                       <span className="text-label-sm" style={{ color: 'var(--on-surface-variant)' }}>/ {defaultVariant.unit}</span>
                     </div>
 
@@ -351,7 +354,7 @@ export default function HomePage() {
       <section style={{ padding: '80px var(--margin-mobile)', background: 'var(--primary)', color: '#fff' }}>
         <div className="container-app" style={{ maxWidth: 1000, margin: '0 auto', textAlign: 'center' }}>
           <span className="material-symbols-outlined" style={{ fontSize: 48, color: 'var(--secondary)', marginBottom: 16 }}>manage_search</span>
-          <h2 className="text-headline-lg">Interactive Rope Finder</h2>
+          <h2 className="text-headline-lg">{t('products:ropeFinder')}</h2>
           <p className="text-body-md" style={{ color: 'var(--on-primary-container)', marginTop: 8, marginBottom: 48 }}>
             Looking for something specific? Search our entire catalogue by precise specifications.
           </p>
@@ -362,7 +365,7 @@ export default function HomePage() {
       {/* Section J: Industries and Applications */}
       <section style={{ padding: '80px var(--margin-mobile)', background: 'var(--surface-bright)' }}>
         <div className="container-app" style={{ maxWidth: 1440, margin: '0 auto' }}>
-          <h2 className="text-headline-lg" style={{ textAlign: 'center', marginBottom: 48 }}>Serving Key Industries</h2>
+          <h2 className="text-headline-lg" style={{ textAlign: 'center', marginBottom: 48 }}>{t('navigation:industries')}</h2>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: 16 }}>
             {['Marine & Offshore', 'Construction', 'Logistics', 'Agriculture', 'General Industrial'].map(ind => (
               <div key={ind} className="card" style={{ padding: '40px 24px', textAlign: 'center', background: 'var(--surface-container-low)' }}>

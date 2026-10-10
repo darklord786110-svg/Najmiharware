@@ -1,8 +1,11 @@
+import { useTranslation } from 'react-i18next';
 import { Link, useNavigate } from 'react-router-dom';
 import { useStore } from '../../StoreContext';
 import { getProduct, getVariant } from '../../store';
 
 export default function CartPage() {
+  const { t } = useTranslation(['common', 'navigation', 'products', 'checkout', 'wholesale', 'account']);
+  const { i18n } = useTranslation();
   const { state, dispatch } = useStore();
   const navigate = useNavigate();
   const { cart } = state;
@@ -45,7 +48,7 @@ export default function CartPage() {
         {cart.length === 0 ? (
           <div className="card" style={{ padding: 32, textAlign: 'center' }}>
             <span className="material-symbols-outlined" style={{ fontSize: 48, color: 'var(--outline)' }}>production_quantity_limits</span>
-            <h3 className="text-headline-sm" style={{ marginTop: 12 }}>Your cart is empty</h3>
+            <h3 className="text-headline-sm" style={{ marginTop: 12 }}>{t('checkout:emptyCart')}</h3>
             <Link to="/shop" className="btn btn-primary" style={{ marginTop: 16 }}>Browse Catalog</Link>
           </div>
         ) : (
@@ -64,7 +67,7 @@ export default function CartPage() {
                     <div style={{ flex: 1, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
                       <div>
                         <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-                          <span className="text-headline-sm" style={{ fontSize: 15, lineHeight: 1.2 }}>{product.name}</span>
+                          <span className="text-headline-sm" style={{ fontSize: 15, lineHeight: 1.2 }}>{i18n.language === 'ar-KW' && product.nameAr ? product.nameAr : product.name}</span>
                           <button onClick={() => handleRemove(item.productId, item.variantId)} style={{ color: 'var(--outline)', padding: 4 }}>
                             <span className="material-symbols-outlined" style={{ fontSize: 18 }}>delete_outline</span>
                           </button>
@@ -97,7 +100,7 @@ export default function CartPage() {
             </div>
 
             <div className="card" style={{ padding: 16 }}>
-              <h3 className="text-headline-sm" style={{ fontSize: 17, marginBottom: 12 }}>Order Summary</h3>
+              <h3 className="text-headline-sm" style={{ fontSize: 17, marginBottom: 12 }}>{t('checkout:orderSummary')}</h3>
               <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: 8 }} className="text-body-md">
                 <span>Items Subtotal</span>
                 <span style={{ fontWeight: 700 }}>{subtotal.toFixed(3)} KWD</span>

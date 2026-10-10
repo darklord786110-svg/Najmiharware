@@ -24,10 +24,15 @@ export interface Product {
   categoryTag: string;
   material: string;
   description: string;
+  descriptionAr: string;
   shortDesc: string;
+  shortDescAr: string;
+  categoryTagAr: string;
+  materialAr: string;
   images: string[];
   variants: ProductVariant[];
   tags: string[];
+  tagsAr: string[];
   isVerified: boolean;
   isActive: boolean;
   stock: number;

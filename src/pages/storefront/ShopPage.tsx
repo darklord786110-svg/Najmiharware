@@ -1,8 +1,11 @@
+import { useTranslation } from 'react-i18next';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { useStore } from '../../StoreContext';
 import { useState, useMemo, useEffect } from 'react';
 
 export default function ShopPage() {
+  const { t } = useTranslation(['common', 'navigation', 'products', 'checkout', 'wholesale', 'account']);
+  const { i18n } = useTranslation();
   const { state, dispatch, showToast } = useStore();
   const { category } = useParams<{ category: string }>();
   const [searchParams] = useSearchParams();
@@ -88,7 +91,7 @@ export default function ShopPage() {
             <h3 className="text-headline-sm" style={{ marginBottom: 16 }}>Search</h3>
             <input 
               type="text" 
-              placeholder="Search SKUs, names, materials..." 
+              placeholder={t('common:search')} 
               value={searchTerm}
               onChange={e => setSearchTerm(e.target.value)}
               style={{ width: '100%', padding: '12px 16px', borderRadius: 8, border: '1px solid var(--outline-variant)', fontSize: 16 }}
@@ -131,14 +134,14 @@ export default function ShopPage() {
               </label>
           </div>
 
-          <button className="btn btn-outline" onClick={clearFilters}>Clear Filters</button>
+          <button className="btn btn-outline" onClick={clearFilters}>{t('products:clearFilters')}</button>
         </aside>
 
         {/* Mobile search bar (shows only on mobile) */}
         <div className="hide-desktop" style={{ width: '100%' }}>
             <input 
               type="text" 
-              placeholder="Search catalogue..." 
+              placeholder={t('common:search')} 
               value={searchTerm}
               onChange={e => setSearchTerm(e.target.value)}
               style={{ width: '100%', padding: '12px 16px', borderRadius: 8, border: '1px solid var(--outline-variant)', fontSize: 16, marginBottom: 24 }}
@@ -170,12 +173,12 @@ export default function ShopPage() {
                   </Link>
                   <div style={{ padding: 24, display: 'flex', flexDirection: 'column', flexGrow: 1, borderTop: '1px solid var(--outline-variant)' }}>
                     <Link to={`/product/${product.id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-                      <h3 className="text-label-md truncate-2" style={{ marginBottom: 8, height: 36 }}>{product.name}</h3>
+                      <h3 className="text-label-md truncate-2" style={{ marginBottom: 8, height: 36 }}>{i18n.language === 'ar-KW' && product.nameAr ? product.nameAr : product.name}</h3>
                     </Link>
                     
                     <div style={{ marginTop: 'auto', display: 'flex', alignItems: 'baseline', gap: 4, marginBottom: 16, paddingTop: 16 }}>
                       <span className="text-headline-sm" style={{ color: 'var(--primary)' }}>{defaultVariant.retailPrice.toFixed(3)}</span>
-                      <span className="text-label-sm">KWD</span>
+                      <span className="text-label-sm">{t('common:kwd')}</span>
                       <span className="text-label-sm" style={{ color: 'var(--on-surface-variant)' }}>/ {defaultVariant.unit} (from)</span>
                     </div>
 
@@ -194,7 +197,7 @@ export default function ShopPage() {
             <div style={{ textAlign: 'center', padding: '80px 0', color: 'var(--on-surface-variant)' }}>
               <span className="material-symbols-outlined" style={{ fontSize: 64, color: 'var(--outline-variant)' }}>search_off</span>
               <p className="text-headline-sm" style={{ marginTop: 16 }}>No products match your search.</p>
-              <button className="btn btn-outline" style={{ marginTop: 24 }} onClick={clearFilters}>Clear Filters</button>
+              <button className="btn btn-outline" style={{ marginTop: 24 }} onClick={clearFilters}>{t('products:clearFilters')}</button>
             </div>
           )}
         </section>

@@ -1,9 +1,11 @@
+import { useTranslation } from 'react-i18next';
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useStore } from '../../StoreContext';
 import { getProduct, getVariant } from '../../store';
 
 export default function RfqBasketPage() {
+  const { i18n } = useTranslation(['common', 'navigation', 'products', 'checkout', 'wholesale', 'account']);
   const { state, dispatch, showToast } = useStore();
   const navigate = useNavigate();
   const { rfqBasket } = state;
@@ -75,7 +77,7 @@ export default function RfqBasketPage() {
               return (
                 <div key={`${item.productId}-${item.variantId}`} className="card" style={{ padding: 16 }}>
                   <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-                    <span className="text-headline-sm" style={{ fontSize: 16 }}>{product.name}</span>
+                    <span className="text-headline-sm" style={{ fontSize: 16 }}>{i18n.language === 'ar-KW' && product.nameAr ? product.nameAr : product.name}</span>
                     <button type="button" onClick={() => handleRemove(item.productId, item.variantId)} style={{ color: 'var(--outline)' }}>
                       <span className="material-symbols-outlined" style={{ fontSize: 18 }}>delete_outline</span>
                     </button>

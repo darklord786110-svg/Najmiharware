@@ -1,8 +1,11 @@
+import { useTranslation } from 'react-i18next';
 import { useParams } from 'react-router-dom';
 import { useState, useMemo, useEffect } from 'react';
 import { useStore } from '../../StoreContext';
 
 export default function ProductPage() {
+  const { t } = useTranslation(['common', 'navigation', 'products', 'checkout', 'wholesale', 'account']);
+  const { i18n } = useTranslation();
   const { id } = useParams<{ id: string }>();
   const { state, dispatch, showToast } = useStore();
   const product = state.products.find(p => p.id === id);
@@ -107,7 +110,7 @@ export default function ProductPage() {
           <div style={{ marginTop: 24, paddingBottom: 24, borderBottom: '1px solid var(--outline-variant)' }}>
             <div style={{ display: 'flex', alignItems: 'baseline', gap: 6 }}>
               <span className="text-display-sm" style={{ color: 'var(--primary)', fontWeight: 700 }}>{variant.retailPrice.toFixed(3)}</span>
-              <span className="text-label-lg" style={{ color: 'var(--primary)' }}>KWD</span>
+              <span className="text-label-lg" style={{ color: 'var(--primary)' }}>{t('common:kwd')}</span>
               <span className="text-body-md" style={{ color: 'var(--on-surface-variant)' }}>/ {variant.unit}</span>
             </div>
             {variant.stock !== undefined && (
@@ -187,11 +190,11 @@ export default function ProductPage() {
 
           {/* Details */}
           <div style={{ marginTop: 48 }}>
-            <h2 className="text-headline-sm" style={{ color: 'var(--primary)', marginBottom: 16 }}>Product Specifications</h2>
+            <h2 className="text-headline-sm" style={{ color: 'var(--primary)', marginBottom: 16 }}>{t('products:productSpecifications')}</h2>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
               <div>
-                <span className="text-label-sm" style={{ color: 'var(--outline)' }}>Material</span>
-                <p className="text-body-md" style={{ fontWeight: 600 }}>{product.material}</p>
+                <span className="text-label-sm" style={{ color: 'var(--outline)' }}>{t('products:material')}</span>
+                <p className="text-body-md" style={{ fontWeight: 600 }}>{i18n.language === 'ar-KW' && product.materialAr ? product.materialAr : product.material}</p>
               </div>
               <div>
                 <span className="text-label-sm" style={{ color: 'var(--outline)' }}>Total Length Required</span>
@@ -200,7 +203,7 @@ export default function ProductPage() {
             </div>
             
             <div style={{ marginTop: 24, padding: 24, background: 'var(--surface-container-low)', borderRadius: 8 }}>
-               <p className="text-body-md" style={{ color: 'var(--on-surface-variant)', lineHeight: 1.6 }}>{product.description}</p>
+               <p className="text-body-md" style={{ color: 'var(--on-surface-variant)', lineHeight: 1.6 }}>{i18n.language === 'ar-KW' && product.descriptionAr ? product.descriptionAr : product.description}</p>
             </div>
           </div>
 
